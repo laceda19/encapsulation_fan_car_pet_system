@@ -1,4 +1,5 @@
 from fan import Fan
+
 # First fan
 fan1 = Fan()
 fan1.set_speed(Fan.FAST)
